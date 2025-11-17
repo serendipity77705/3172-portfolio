@@ -1,11 +1,9 @@
-# Lab 3 Activity
-
+# Lab 5 Activity
 
 * *Date Created*: 14 NOV 2025
-* *Last Modification Date*: 16 NOV 2025
+* *Last Modification Date*: 17 NOV 2025
 * *Git URL*: <https://git.cs.dal.ca/daboor/csci-3172/-/tree/master/labs/lab5>
-* *Timberlea URL*: <https://web.cs.dal.ca/~daboor/csci3172/labs/lab5>
-* *Netlify URL*: <https://web.cs.dal.ca/~daboor/csci3172/labs/lab5>
+* *Netlify URL*: <https://portfolio-3172.netlify.app/>
 
 
 
@@ -40,7 +38,7 @@ The code above was created by adapting the code in [GeeksForGeeks](https://www.g
 *All the files in the tests directory*
 
 ```
-Everything
+All code in tests directory files
 
 ```
 
@@ -87,5 +85,5 @@ While these are pretty simple tests, since I do not have too many complex functi
 
 The CSS and HTML in the React is complaint with W3C, and is compatible with different browsers. 
 
-My Header is the NavBar, but I decided to incorporate them into one file as the header only had the NavBar. 
+My Header is the NavBar, but I decided to incorporate them into one file as the header only had the NavBar, so everything is now in the Header.jsx file. 
 
