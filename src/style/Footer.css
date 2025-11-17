@@ -1,0 +1,21 @@
+@import './global.css';
+
+footer {
+  color: var(--white);
+  background-color: var(--light-violet);
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  color: var(--dark-purple);
+  font-weight: 600;
+  transition: color 0.1s ease;
+  padding: 0px 10px;
+}
+
+footer a:hover {
+  color: var(--blue);
+}

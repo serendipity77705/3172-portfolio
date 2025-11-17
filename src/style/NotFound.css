@@ -1,0 +1,6 @@
+@import 'global.css';
+
+.btn {
+    background-color: var(--violet);
+    margin: 10px;
+}

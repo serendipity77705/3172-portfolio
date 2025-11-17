@@ -1,0 +1,31 @@
+:root {
+    --yellow: #f0db4f;
+    --light-yellow: #f8edc3;
+    --blue: #007acc;
+    --light-blue: #61dafb;
+    --dark-blue: #20232a;
+    --violet: #646cff;
+    --light-purple: #a855f7;
+    --light-violet: #c4b5fd;
+    --dark-violet: #4c1d95;
+
+    --font: Garamond, "Times New Roman", serif;
+}
+
+body {
+    font-family: var(--font);
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+    color: var(--dark-blue);
+}
+
+a {
+    color: var(--violet);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+  
+a:hover {
+    color: var(--dark-violet);
+}

@@ -1,0 +1,25 @@
+@import './global.css';
+
+.navbar {
+  background-color: var(--light-violet);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+}
+
+.navbar .nav-link {
+  color: var(--dark-blue);
+}
+
+.navbar .nav-link.active {
+  color: var(--violet);
+}
+
+.name {
+  padding-left: 10px;
+}
+
+.nav-item:hover {
+  background-color: var(--light-yellow);
+  border-radius: 10%;
+  transition: 0.15s ease-in;
+}

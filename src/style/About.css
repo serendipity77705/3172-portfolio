@@ -1,0 +1,11 @@
+@import './global.css';
+
+.about-page {
+    width: 75%;
+}
+
+h3 {
+    background-color: var(--yellow);
+    border-radius: 10px;
+    padding: 10px;
+}

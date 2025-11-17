@@ -1,0 +1,49 @@
+@import './global.css';
+  
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+  
+h1 {
+  font-weight: 700;
+  color: var(--dark-blue);
+}
+  
+p.mb-5 {
+  font-size: 1.1rem;
+}
+  
+.card {
+  border: none;
+  border-radius: 20px;
+  color: var(--dark-blue);
+  background-color: var(--light-yellow);
+}
+  
+.card-body {
+    padding: 25px;
+}
+  
+.card-title {
+    font-weight: 600;
+    color: var(--blue);
+    margin-bottom: 1.5rem;
+}
+
+.card-body p {
+  margin-top: 0.5rem;
+    line-height: 0.75rem;
+}
+  
+.card-body ul {
+    padding-left: 1.2rem;
+    width: 60%;
+    margin: 0 auto;
+}
+  
+.card-body ul li {
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+}
+  
